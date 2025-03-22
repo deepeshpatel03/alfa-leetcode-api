@@ -2,7 +2,7 @@
   "name": "alfa-leetcode-api",
   "version": "2.0.1",
   "description": "It's a leetcode custom api. This API provides endpoints to retrieve details about a user's profile, badges, solved questions, contest details, contest history, submissions, calendar and and also daily questions, selected problem, list of problems.",
-  "main": src/index.ts,
+  "main": "src/index.ts",
   "scripts": {
     "build": "tsc",
     "dev": "nodemon --exec ts-node src/index.ts",
